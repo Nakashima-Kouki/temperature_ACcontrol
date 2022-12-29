@@ -1,0 +1,2 @@
+# temperature_ACcontrol
+Raspberry PiとArduinoを使った温度測定とエアコンの操作
